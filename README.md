@@ -132,23 +132,10 @@ You can deploy the image on:
 * Azure Container Apps
 * Google Cloud Run
 
-If you want, I can also make a **CD workflow** to auto-deploy on Render or Railway.
-
----
-
-## 🎯 **Why This Project Is Great for Your CV**
-
-* Shows CI/CD automation
-* Shows Docker skills
-* Shows testing & best practices
-* Shows AI integration workflow
-* Shows GitHub Actions experience
-* Looks polished & professional
-
----
 
 ## 📬 Contact
 
 Created by **Rohit Poonia**
 GitHub: `ROHIT7773TRX`
 Docker Hub: `rohitpoonia`
+
